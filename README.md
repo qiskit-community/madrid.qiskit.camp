@@ -1,2 +1,2 @@
-# madrid19.qiskit.camp
+# madrid.qiskit.camp
 Madrid 19 Qiskit Camp site
