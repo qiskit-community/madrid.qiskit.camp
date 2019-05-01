@@ -1,3 +1,12 @@
 header.madrid19 {
     background-image: url('../img/bg-hi-res.jpg'), url('../img/bg-low-res.jpg');
 }
+
+.past-event {
+    color: gray;
+    text-decoration: line-through;
+}
+
+.past-event a {
+    color: gray;
+}
